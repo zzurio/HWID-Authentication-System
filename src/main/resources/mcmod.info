@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hwidauthmod",
+  "name": "HWID-Authentication-System",
+  "description": "A simple HWID authentication system for your minecraft mod.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CPacketCustomPayload"],
+  "credits": "The Forge Developers.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
