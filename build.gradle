@@ -10,7 +10,7 @@ buildscript {
 
 apply plugin: "net.minecraftforge.gradle.forge"
 
-group = 'club.cpackrt'
+group = 'club.cpacket'
 version = '1.0.0'
 archivesBaseName = 'HWID-Authentication-System'
 
